@@ -1,3 +1,8 @@
 # drawing
 
-You should put a description of your project here, plus any setup instructions for other developers, if necessary.
+User can draw with different colours and creat their own colours.
+Future functions:
+  different sizes of pen;
+  download picture;
+  eraser;
+  clear.
